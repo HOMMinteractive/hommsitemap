@@ -1,3 +1,9 @@
+# This package has moved
+
+This package was rewritten and moved to [https://github.com/HOMMinteractive/hommxmlsitemap](https://github.com/HOMMinteractive/hommxmlsitemap)
+
+----
+
 # XML-sitemap plugin for Craft CMS 3.x
 
 Craft 3 plugin that provides an easy way to enable and manage a XML sitemap for search engines like Google and Bing
